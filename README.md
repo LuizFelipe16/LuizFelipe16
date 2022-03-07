@@ -15,7 +15,7 @@
   <img align="center" alt="Louiz-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Louiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Louiz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" alt="Louiz-pic" height="150" style="border-radius: 10px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEe2A2upPsUpA/profile-displayphoto-shrink_200_200/0/1631734410129?e=1652313600&v=beta&t=59nZRi15ModUA-cQZut5Vue_gImZUCTJSZK_RsE14dE">
+  <img align="right" alt="Louiz-pic" height="150" style="border-radius: 10px;" src="https://instagram.fcpq9-1.fna.fbcdn.net/v/t51.2885-19/275308531_683700582945247_1827518127582145764_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcpq9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=j_EoX49NBz8AX_ziZ0Y&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_6uzt4z5p-VuEGvdGmnqQpyEsVtXnDFcC5vpKNHS_M_Q&oe=622DCF43&_nc_sid=7bff83">
 </div>
   
   ##
