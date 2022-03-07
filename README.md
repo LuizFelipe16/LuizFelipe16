@@ -1,5 +1,6 @@
 <h1>Hello World! Eu sou o Luiz Felipe 👋</h1>
 
+<p>😄 3 anos na programação, e 2 anos me aperfeiçoando em Javascript</p>
 <p>✍️ Estou estudando dados em cache com React-Query e técnicas para melhorar a performance das aplicações Next</p>
 <p>👨‍💻 Atualmente estou me apefeiçando na tecnlogia NodeJS</p>
 
@@ -8,7 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipe16&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipe16&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div style="display: inline_block"><br>
+##
+<p style="font-size: 10px;">🤖 Tecnologias que uso:</p>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Louiz-Next" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Louiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Louiz-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
