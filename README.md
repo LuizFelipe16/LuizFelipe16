@@ -1,7 +1,7 @@
 <h1>Hello World! Eu sou o Luiz Felipe 👋</h1>
 
 <p>😄 3 anos na programação, e 2 anos me aperfeiçoando em Javascript</p>
-<p>✍️ Estou estudando dados em cache com React-Query e técnicas para melhorar a performance das aplicações Next</p>
+<p>✍️ Estou estudando dados em cache com React-Query e técnicas para melhorar a performance de aplicações Next</p>
 <p>👨‍💻 Atualmente estou me apefeiçando na tecnlogia NodeJS</p>
 
 <div align="center">
