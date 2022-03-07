@@ -2,7 +2,7 @@
 
 <p>😄 3 anos na programação, e 2 anos me aperfeiçoando em Javascript</p>
 <p>✍️ Estou estudando dados em cache com React-Query e técnicas para melhorar a performance de aplicações Next</p>
-<p>👨‍💻 Atualmente estou me apefeiçando na tecnlogia NodeJS</p>
+<p>👨‍💻 Atualmente estou me aventurando mais com NodeJS</p>
 
 <div align="center">
   <a href="https://github.com/LuizFelipe16">
