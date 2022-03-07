@@ -1,6 +1,6 @@
 <h1>Hello World! Eu sou o Luiz Felipe 👋</h1>
 
-<p>✍️ Estou estudando dados em cache com react-query e técnicas para melhorar a performance dos aplicativos</p>
+<p>✍️ Estou estudando dados em cache com React-Query e técnicas para melhorar a performance das aplicações Next</p>
 <p>👨‍💻 Atualmente estou me apefeiçando na tecnlogia NodeJS</p>
 
 <div align="center">
