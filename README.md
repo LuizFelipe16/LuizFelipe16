@@ -21,7 +21,7 @@
   <img align="center" alt="Louiz-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Louiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Louiz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" alt="Louiz-pic" height="150" style="border-radius: 10px;" src="https://luizfelipe.vercel.app/images/eu.jpeg">
+<!--   <img align="right" alt="Louiz-pic" height="150" style="border-radius: 10px;" src="https://luizfelipe.vercel.app/images/eu.jpeg"> -->
 </div>
   
   ##
