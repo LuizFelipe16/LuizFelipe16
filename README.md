@@ -6,7 +6,7 @@
 <p>👨‍💻 Atualmente estou me aventurando mais com NodeJS.</p>
 <p>🎧 Último projeto desenvolvido: MyMoon (my-moon).</p>
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/LuizFelipe16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipe16&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipe16&layout=compact&langs_count=7&theme=material-palenight"/>
